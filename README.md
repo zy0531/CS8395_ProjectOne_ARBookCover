@@ -5,13 +5,18 @@ This AR bookcover program is for a illustrated children's book called One Leaf R
 
 ## Platform
 Unity 2018.4.14f1
+
 Vuforia Engine 8.6
+
 Android 8.0.0
 
 ## Interaction
 *The front cover*
+
 There are augmented text of the title and author. The virtual butterflies fly out of the lotus accompanied by bright light. There is a cherry blossom flower(AR button) on the bottom left which can be interacted with, when your hand cover that flower area, to generate rain of flowers in front of the bookcover (toggle the butterfly particle system and the flower particle system).
+
 *The back cover*
+
 There are a short piece of book review and the publication information on the back cover displayed in augmented reality, which can be toggled by buttons on the phone screen. Also, there is a Virtual Button in leaf shape that make the scene described in the book review appear.
 
 ## Limitation
