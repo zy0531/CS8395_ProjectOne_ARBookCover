@@ -13,7 +13,7 @@ Android 8.0.0
 ## Interaction
 *The front cover*
 
-There are augmented text of the title and author. The virtual butterflies fly out of the lotus accompanied by bright light. There is a cherry blossom flower(AR button) on the bottom left which can be interacted with, when your hand cover that flower area, to generate rain of flowers in front of the bookcover (toggle the butterfly particle system and the flower particle system).
+There are augmented text of the title and author when the phone camera detect the front cover. The virtual butterflies fly out of the lotus accompanied by bright light. There is a cherry blossom flower(AR button) on the bottom left which can be interacted with, when your hand cover that flower area, to generate rain of flowers in front of the bookcover (toggle the butterfly particle system and the flower particle system).
 
 *The back cover*
 
@@ -23,4 +23,4 @@ There are a short piece of book review and the publication information on the ba
 The image of the back cover has only been rated as one star (total 5 stars), which means it is not that suitable for augmented reality, so the interaction is not that sensitive especially when users keep slightly moving the cover inevitably or hold the book with some angles or positions.
 
 ## How to run the code
-Download AR_BookCover file and install AR_BookCover.apk on an Android phone(Android 8.0.0). Then run the app by referencing the interaction description.
+Download AR_BookCover.apk from AR_BookCover file and install it on an Android phone(Android 8.0.0). Then run the app by referencing the interaction description.
